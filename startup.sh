@@ -38,4 +38,3 @@ echo "Running node server...";
 
 npm run dev > /dev/null 2>&1 >> $NODELOG
 
-
