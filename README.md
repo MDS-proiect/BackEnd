@@ -1,4 +1,4 @@
-# Team Name: Brontosaurus
+# <a href="https://promeret.social">Team Name: Brontosaurus</a>
 
 Team members:
 - Buzaș Radu
